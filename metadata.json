@@ -1,0 +1,6 @@
+{
+  "name": "Live Commentary Generator",
+  "description": "Convert ball-by-ball event data into engaging Hindi-English commentary with a Rajasthan Royals fan tilt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
